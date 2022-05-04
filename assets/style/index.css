@@ -1,0 +1,12 @@
+
+#link-to-game {
+    display: block;
+
+    width: 50%;
+    margin: auto;
+
+    text-decoration: none;
+    color: red;
+
+    border: 1px black solid;
+}
